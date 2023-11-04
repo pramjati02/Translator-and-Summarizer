@@ -1,1 +1,2 @@
-https://www.mediafire.com/file/83eg3s1lal8atxo/model.en-nl_step_10000_v2%2528working%2529.pt/file
+link for hugging face of nmt translator trained to this specfific task https://huggingface.co/aaref/open-nmt-translator-fine-tune-europarl
+direct download link for model only: https://www.mediafire.com/file/83eg3s1lal8atxo/model.en-nl_step_10000_v2%2528working%2529.pt/file
