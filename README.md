@@ -16,6 +16,11 @@ Can be accessed through Words and phrases in common.ipynb
 
 Outputs both the words (not including stopwords) and phrases in common of two articles. At the moment, the model relies on user input in order to infer the maximum length of common phrases in the output.
 
+# Translation model 
+Accessed the Opus-mt-en-nl model from HuggingFace.
+
+Takes english sentence inputs and will output them in Dutch. 
+
 HuggingFace link: https://huggingface.co/Helsinki-NLP/opus-mt-en-nl
 
 # Flask Environment
