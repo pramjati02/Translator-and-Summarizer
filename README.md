@@ -9,18 +9,14 @@ Summarizes texts that are inputted by the user.
 
 Article used to build the summarizer: https://www.analyticsvidhya.com/blog/2023/07/build-a-text-summariser-using-llms-with-hugging-face/ 
 
-Git link for summarizer:
+HuggingFace link: https://huggingface.co/DaviadiAF/T5-Small_AbsSumm_XSumCNN
 
 # Common Words Model
 Can be accessed through Words and phrases in common.ipynb
 
 Outputs both the words (not including stopwords) and phrases in common of two articles. At the moment, the model relies on user input in order to infer the maximum length of common phrases in the output.
 
-
-
-Git link for translator:
-
-Git link for subword tokenizer:
+HuggingFace link: https://huggingface.co/Helsinki-NLP/opus-mt-en-nl
 
 # Flask Environment
 The incorporated summarizer model in the flask environment can be found in the folder ***Flask Final*** under the branch ***main***. 
