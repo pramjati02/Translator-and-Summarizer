@@ -31,6 +31,8 @@ Instructions for installing WSL can be found here: https://learn.microsoft.com/e
 
 Instructions for installing python3 into WSL: write in your terminal **sudo apt install python3 python3-pip**
 
-In the terminal, you will need to install the packages in ***requirements.txt*** using the command ***pip3 install -r requirements.txt*** After installing these packages, navigate to the folder with your downloaded github repository files in your terminal using **cd (file path location)**, and run it using **python3 flaskapp.py**.
+In the terminal, you will need to install the packages in ***requirements.txt*** using the command ***pip3 install -r requirements.txt*** 
+
+After installing these packages, navigate to the folder with your downloaded github repository files in your terminal using **cd (file path location)**, and run it using **python3 flaskapp.py**.
 # High level overview user end
 ![photoshopdiagram](https://github.com/pramjati02/Translator-and-Summarizer/assets/139998943/2aa925ef-21f7-4442-80fe-bb260abb8c93)
